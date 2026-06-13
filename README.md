@@ -134,7 +134,7 @@ The models are evaluated using regression metrics such as:
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Shyamanth-001/Traffic-Demand-Prediction.git>
 cd Traffic-Demand-Prediction
 ```
 
